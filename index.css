@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.808);
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.heading h1{
+    color: lime;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px 20px;
+    margin: 20px 20px;
+
+}
+.photo-1 {
+    height: auto;
+    width: auto;
+}
+.photo-2 {
+    height: auto;
+    width: auto;
+}
+.photo-3 {
+    height: auto;
+    width: auto;
+}
+.photo-4{
+    height: auto;
+    width: auto;
+}
+.photo-5 {
+    height: auto;
+    width: auto;
+}
+.photo-6 {
+    height: auto;
+    width: auto;
+}
+.photo-7 {
+    height: auto;
+    width: auto;
+}
+.photo-8 {
+    height: auto;
+    width: auto;
+}
+.photo-9{
+    height: auto;
+    width: auto;
+}
+.photo-10 {
+    height: auto;
+    width: auto;
+}
+
+
+.photo-1 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.photo-2 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.photo-3 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.photo-4 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.photo-5 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.photo-6 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.photo-7 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.photo-8 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.photo-9 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.photo-10 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.photo-1 p{
+    color: aqua;
+}
+.photo-2 p{
+    color: rgb(0, 195, 255);
+}
+.photo-3 p{
+    color: rgb(255, 196, 0);
+}
+.photo-4 p{
+    color: rgb(0, 68, 255);
+}
+.photo-5 p{
+    color: rgb(0, 255, 0);
+}
+.photo-6 p{
+    color: rgb(247, 29, 29);
+}
+.photo-7 p{
+    color: rgb(222, 29, 247);
+}
+.photo-8 p{
+    color: rgb(247, 178, 29);
+}
+.photo-9 p{
+    color: rgb(29, 247, 211);
+}
+.photo-10 p{
+    color: rgb(29, 247, 29);
+}
